@@ -5,19 +5,19 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "The Wedding of Adiststi & Ainul",
-  description: "Undangan Pernikahan Adiststi & Ainul",
+  title: "The Wedding of Lacus & Kira",
+  description: "Undangan Pernikahan Lacus & Kira",
   icons: {
     icon: "/favicon_io/favicon-32x32.png",
   },
-  metadataBase: new URL("https://adiststi-ainul-wedding.web.app/"),
+  metadataBase: new URL("https://adityoarr-wedding-invitation-template-v1.vercel.app/"),
   openGraph: {
-    title: "Adiststi & Ainul Wedding",
-    description: "The Wedding of Adiststi Qania Putri & Muhammad Ainul Yaqin",
-    url: "https://adiststi-ainul-wedding.web.app/",
+    title: "Lacus & Kira Wedding",
+    description: "The Wedding of Lacus Clyne & Kira Yamato",
+    url: "https://adityoarr-wedding-invitation-template-v1.vercel.app/",
     siteName: "adiststi-ainul-wedding",
     images: {
-      url: "/img/couple/cover2.png",
+      url: "/img/couple-old.jpg",
     },
     type: "website",
   },
