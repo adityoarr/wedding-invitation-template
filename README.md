@@ -2,5 +2,5 @@
 
 A Wedding Template build with Next.js + tailwind css
 
-##License
+## License
 [MIT](https://choosealicense.com/licenses/mit/)
